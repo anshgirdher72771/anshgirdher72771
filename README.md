@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anshgirdher72771
-- 👀 I’m interested in Software Development
+- 👋 Hi, I’m @anshgirdher72771.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning C Programming & Data Structure & Algorithms.
 - 😎 I'm Currently Working on Problem Solving Skill.
 
