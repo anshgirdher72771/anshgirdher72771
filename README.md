@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anshgirdher72771.
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning C Programming & Data Structure & Algorithms.
+- 👀 I’m interested in Android Development.
+- 🧑‍💻 I have knowledge about Structured Query Language(SQL).
+- 🌱 I’m currently Exploring C Programming & Data Structure & Algorithms as a real World.
 - 😎 I'm Currently Working on Problem Solving Skill.
 
 <!---
